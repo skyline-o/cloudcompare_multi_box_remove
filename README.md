@@ -1,0 +1,1 @@
+# cloudcompare_multi_box_remove
