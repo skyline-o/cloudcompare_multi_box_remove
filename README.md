@@ -572,6 +572,8 @@ addToDB()
 
 # License
 
-本仓库发布前建议明确选择并添加 `LICENSE` 文件。
+This project is licensed under the **MIT License**.
 
-如果希望代码可自由使用、修改和分发，可以根据项目需求选择 MIT、BSD-3-Clause、Apache-2.0 等开源许可证；请根据你实际希望授予的权利选择，不要仅在 README 中写许可证名称而不提交对应的 `LICENSE` 文件。
+You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this software, provided that the original copyright notice and permission notice are retained.
+
+For the full license text, see the [`LICENSE`](LICENSE) file.
